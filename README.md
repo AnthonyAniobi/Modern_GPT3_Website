@@ -7,6 +7,11 @@ An Ai website built using only Css and react icons
 ![Stars](https://img.shields.io/github/stars/AnthonyAniobi/Modern_GPT3_Website)
 ![License](https://img.shields.io/github/license/AnthonyAniobi/Modern_GPT3_Website)
 
+
+## Preview 
+![GPT-3 Preview](screenshot/gpt3.gif)
+
+
 ## Screenshot
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
